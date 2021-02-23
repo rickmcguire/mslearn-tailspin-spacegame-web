@@ -1,4 +1,6 @@
 
+[![Build Status](https://rwmcguire.visualstudio.com/Git%20Workflow%20Space%20Game%20Web/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://rwmcguire.visualstudio.com/Git%20Workflow%20Space%20Game%20Web/_build/latest?definitionId=9&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
